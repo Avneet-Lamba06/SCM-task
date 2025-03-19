@@ -1,1 +1,1 @@
-giignore activity done
+gitignore activity done
