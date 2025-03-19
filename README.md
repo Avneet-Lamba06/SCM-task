@@ -1,1 +1,2 @@
-gitignore activity 
+gitignore activity done asap
+
