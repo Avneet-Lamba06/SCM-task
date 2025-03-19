@@ -1,1 +1,1 @@
-# SCM-task
+giignore activity done
